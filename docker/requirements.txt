@@ -1,0 +1,7 @@
+numpy
+jupyterlab
+matplotlib
+scikit-learn
+pandas
+requests
+bs4
